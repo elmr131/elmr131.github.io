@@ -1,0 +1,29 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "editor.fontFamily": "D2Coding, Consolas",
+    "editor.fontSize": 16,
+    "editor.codeLensFontFamily": "D2Coding, Consolas",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.inlayHints.fontFamily": "D2Coding, Consolas",
+    "wordcounter.text.char": "글자",
+    "wordcounter.text.paragraphs": "문단",
+    "wordcounter.text.chars": "글자",
+    "wordcounter.text.delimiter": " | ",
+    "wordcounter.text.line": "줄",
+    "wordcounter.text.lines": "줄",
+    "wordcounter.text.paragraph": "문단",
+    "wordcounter.text.word": "단어",
+    "wordcounter.text.words": "단어",
+    "wordcounter.readtime": false,
+    "editor.linkedEditing": true,
+    "php.memoryLimit": "512M",
+    "php.executablePath": "/usr/bin/php7.4",
+    "resmon.show.battery": false,
+    "resmon.disk.format": "Remaining",
+    "resmon.disk.drives": [
+        "/dev/sda"
+    ],
+    "resmon.show.cpufreq": false
+}
